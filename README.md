@@ -1,5 +1,5 @@
 
-# 🏡 Week 5: House Price Prediction – Feature Engineering & Modeling
+# Week 5: House Price Prediction – Feature Engineering & Modeling
 
 This project is part of **Week 5** of the **Celebal Summer Internship** program.
 
@@ -7,15 +7,15 @@ The assignment involved building a robust regression pipeline to **predict house
 
 ---
 
-## 📌 Features
+##  Features
 
-- ✅ Comprehensive Data Preprocessing:
+- Comprehensive Data Preprocessing:
   - Null value handling
   - Feature construction (`TotalSF`, square footage, etc.)
   - One-hot encoding of categorical features
   - Log transformation for skewed target
 
-- 🧠 Predictive Modeling (Regression):
+- Predictive Modeling (Regression):
   - Simple Linear Regression
   - Multiple Linear Regression
   - Polynomial Regression (Degree 2)
@@ -25,18 +25,18 @@ The assignment involved building a robust regression pipeline to **predict house
   - Support Vector Regressor (with scaling)
   - K-Nearest Neighbors Regressor
 
-- 🔍 Feature Engineering & Selection:
+- Feature Engineering & Selection:
   - `SelectKBest` for top features
   - PCA for dimensionality reduction (50 components)
   - t-SNE for 2D visualization of price clusters
 
-- 📈 Model Evaluation:
+-  Model Evaluation:
   - RMSE, R², MSE for model comparison
   - Final model selection via `GridSearchCV`
 
 ---
 
-## 📂 File Structure
+## File Structure
 
 ```
 Celebal-Week5/
@@ -50,7 +50,7 @@ Celebal-Week5/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Clone this Repository
 
@@ -82,7 +82,7 @@ jupyter notebook week5.ipynb
 
 ---
 
-## 📉 Visualizations Included
+## Visualizations Included
 
 - Correlation heatmap
 - PCA projections
@@ -92,7 +92,7 @@ jupyter notebook week5.ipynb
 
 ---
 
-## 📎 Requirements
+## Requirements
 
 ```
 pandas
@@ -106,7 +106,7 @@ scipy
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Jagruti Desale**  
 B.Tech – Data Science and Engineering (3rd Year)  
@@ -117,6 +117,6 @@ Summer Intern @ Celebal Technologies
 
 ---
 
-## 📜 License
+## License
 
 This project is intended for academic and learning purposes only as part of the Celebal Summer Internship program.
