@@ -112,8 +112,8 @@ scipy
 B.Tech – Data Science and Engineering (3rd Year)  
 Summer Intern @ Celebal Technologies
 
-🔗 [GitHub](https://github.com/jagrutidesale04)  
-💼 [LinkedIn](https://www.linkedin.com/in/jagruti-desale-jd04)
+ [GitHub](https://github.com/jagrutidesale04)  
+ [LinkedIn](https://www.linkedin.com/in/jagruti-desale-jd04)
 
 ---
 
